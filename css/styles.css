@@ -1,0 +1,84 @@
+body {
+    font-family: "Montserrat", sans-serif;
+    padding-left: 40px;
+    padding-top: 40px;
+    padding-right: 40px;
+    padding-bottom: 40px;
+    background: #ffb8c6;
+}
+
+.wrapper {
+    background: #ffffff;
+    display: flex;
+    flex-direction: row-reverse;
+}
+.main-content {
+padding-left: 88px;
+padding-top: 80px;
+padding-right: 40px;
+padding-bottom: 80px;
+box-sizing: border-box;
+}
+.side-bar{
+background: #ffc0cb;
+padding-top: 40px;
+padding-bottom: 40px;
+box-sizing: border-box;
+width: 370px;
+}
+.sidebar-content {
+    padding-left: 40px;
+    padding-top: 40px;
+    padding-right: 40px;
+    box-sizing: border-box;
+}
+.contacts-title {
+line-height: normal;
+font-weight: 700;
+font-size: 22px;
+color: #161d2a;
+margin-top: 0;
+margin-bottom: 8px;
+}
+.contacts-type {
+font-weight: 700;
+font-size: 14px;
+line-height: 171%;
+color: #161d2a;
+margin-right: 8px;
+}
+.contacts-link {
+font-size: 14px;
+font-weight: 400;
+line-height: 24px;
+color: #2979FF;
+text-decoration-line: underline;
+}
+.contacts-item {
+margin-top: 0px;
+margin-bottom: 6px;
+}
+.contacts-container {
+margin-bottom: 40px;
+}
+.skillls-container {
+margin-bottom: 40px;
+}
+.skills-title {
+font-weight: 700;
+font-size: 22px;
+color: #161d2a;
+line-height: normal;
+margin-top: 0px;
+margin-bottom: 8px;
+}
+.skills-list {
+padding-left: 16px;
+}
+.skills-list-item {
+font-weight: 400;
+font-size: 14px;
+line-height: 24px;
+color: #161d2a;
+}
+    
